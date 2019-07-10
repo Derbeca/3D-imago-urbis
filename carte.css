@@ -1,0 +1,22 @@
+#map_info {
+  display: flex !important;
+  align-items: center !important;
+
+}
+
+#map {
+  display: flex !important;
+  align-items: center !important;
+  padding: 5px;
+  width: 30%;
+  height: 400px;
+  box-shadow: 0 0 10px #999;
+}
+
+#info {
+  padding: 5px;
+  width: 100%;
+  height: 20px;
+  font-family: "monospace";
+  font-size: 10px;
+}
